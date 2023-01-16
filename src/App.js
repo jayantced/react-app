@@ -12,7 +12,7 @@ import Alert from './components/Alert';
 
 function App() {
 
-  const [mode, setMode] = useState('light');
+  const [mode, setMode] = useState('lightsssss');
 
   const toggleMode = ()=> {
     if (mode === 'light') {
